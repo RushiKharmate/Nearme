@@ -77,4 +77,4 @@ Do not copy !
 
 ## Contact
 
-For questions or support regarding Nearme, feel free to contact me at [op.pranay.bhange@gmail.com](mailto:op.pranay.bhange@gmail.com).
+For questions or support regarding Nearme, feel free to contact me at [rushirajekharmate@gmail.com](mailto:rushirajekharmate@gmail.com).
