@@ -29,9 +29,7 @@ Login (Tablet View)
 
 https://github.com/PranaySiddharthBhange/Near-Me/assets/125269727/997c39c0-7902-490a-a1e6-26b99e15bbf4
 
-OTP Page
 
-https://github.com/PranaySiddharthBhange/Near-Me/assets/125269727/e122f283-960a-41ae-9fbc-d5ed01216efc
 
 Create Service at current location
 
